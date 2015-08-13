@@ -28,4 +28,6 @@ mysql_close($conn);
 
 
 echo "Added new content";
+
+echo "Added change again"
 ?>
