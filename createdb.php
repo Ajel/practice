@@ -25,4 +25,7 @@ if(! $retval )
 }
 echo "Database test_db created successfully\n";
 mysql_close($conn);
+
+
+echo "Added new content";
 ?>
